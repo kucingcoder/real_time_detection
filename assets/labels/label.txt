@@ -1,0 +1,4 @@
+sleeping
+calling
+running
+sitting
